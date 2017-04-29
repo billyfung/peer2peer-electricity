@@ -8,3 +8,5 @@ methodology of their technology. I don't believe any of them are blockchain
 - https://www.openutility.com/
 - https://localvolts.com/
 
+Blockchain
+- http://brooklynmicrogrid.com/
